@@ -9,16 +9,7 @@ This is a simple web-based application that generates QR codes from user-provide
 - The generated QR code will be displayed below the input field.
 - If no text is provided, the input field will shake to indicate an error.
 
-## Technologies Used
 
-- **HTML**: Structure of the web page.
-- **CSS**: Styling for the web page and animations.
-- **JavaScript**: Logic for generating the QR code using an external API.
-- **API Used**: [QR Server API](https://api.qrserver.com) to generate the QR code.
 
-## Installation
 
-1. Clone the repository or download the project files.
 
-   ```bash
-   git clone https://github.com/yourusername/qr-code-generator.git
